@@ -1,0 +1,22 @@
+{
+  "name": "mecab-async-winfix",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/asmape0104/mecab-async-winfix.git"
+  },
+  "author": "Asmape",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/asmape0104/mecab-async-winfix/issues"
+  },
+  "homepage": "https://github.com/asmape0104/mecab-async-winfix#readme",
+  "dependencies": {
+    "mecab-async": "^0.1.2"
+  }
+}
